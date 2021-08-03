@@ -1,4 +1,3 @@
-C:\Users\R.M\source\repos\MasterBloger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.csprojAssemblyReference.cache
 C:\Users\R.M\source\repos\MasterBloger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\R.M\source\repos\MasterBloger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.AssemblyInfoInputs.cache
 C:\Users\R.M\source\repos\MasterBloger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.AssemblyInfo.cs
@@ -89,3 +88,4 @@ C:\Users\R.M\source\repos\MasterBloger\MB.Presentation.MVCCore\bin\Debug\net5.0\
 C:\Users\R.M\source\repos\MasterBloger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Adminstorator\Pages\ArticleCategoryManagment\List.cshtml.g.cs
 C:\Users\R.M\source\repos\MasterBloger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Adminstorator\Pages\ArticleCategoryManagment\Create.cshtml.g.cs
 C:\Users\R.M\source\repos\MasterBloger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Adminstorator\Pages\ArticleCategoryManagment\Edit.cshtml.g.cs
+C:\Users\R.M\source\repos\MasterBloger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.csproj.AssemblyReference.cache

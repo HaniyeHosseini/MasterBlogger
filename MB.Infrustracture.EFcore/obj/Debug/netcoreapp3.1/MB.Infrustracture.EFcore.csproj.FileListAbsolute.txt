@@ -1,7 +1,6 @@
 C:\Users\R.M\source\repos\MasterBloger\MB.Infrustracture.EFcore\bin\Debug\netcoreapp3.1\MB.Domain.dll
 C:\Users\R.M\source\repos\MasterBloger\MB.Infrustracture.EFcore\obj\Debug\netcoreapp3.1\MB.Infrustracture.EFcore.AssemblyInfoInputs.cache
 C:\Users\R.M\source\repos\MasterBloger\MB.Infrustracture.EFcore\obj\Debug\netcoreapp3.1\MB.Infrustracture.EFcore.AssemblyInfo.cs
-C:\Users\R.M\source\repos\MasterBloger\MB.Infrustracture.EFcore\obj\Debug\netcoreapp3.1\MB.Infrustracture.EFcore.csprojAssemblyReference.cache
 C:\Users\R.M\source\repos\MasterBloger\MB.Infrustracture.EFcore\bin\Debug\netcoreapp3.1\MB.Infrustracture.EFcore.deps.json
 C:\Users\R.M\source\repos\MasterBloger\MB.Infrustracture.EFcore\bin\Debug\netcoreapp3.1\MB.Infrustracture.EFcore.runtimeconfig.json
 C:\Users\R.M\source\repos\MasterBloger\MB.Infrustracture.EFcore\bin\Debug\netcoreapp3.1\MB.Infrustracture.EFcore.runtimeconfig.dev.json
@@ -13,3 +12,4 @@ C:\Users\R.M\source\repos\MasterBloger\MB.Infrustracture.EFcore\obj\Debug\netcor
 C:\Users\R.M\source\repos\MasterBloger\MB.Infrustracture.EFcore\obj\Debug\netcoreapp3.1\MB.Infrustracture.EFcore.dll
 C:\Users\R.M\source\repos\MasterBloger\MB.Infrustracture.EFcore\obj\Debug\netcoreapp3.1\MB.Infrustracture.EFcore.pdb
 C:\Users\R.M\source\repos\MasterBloger\MB.Infrustracture.EFcore\obj\Debug\netcoreapp3.1\MB.Infrustracture.EFcore.genruntimeconfig.cache
+C:\Users\R.M\source\repos\MasterBloger\MB.Infrustracture.EFcore\obj\Debug\netcoreapp3.1\MB.Infrustracture.EFcore.csproj.AssemblyReference.cache

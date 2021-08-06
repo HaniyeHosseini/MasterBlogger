@@ -3,42 +3,38 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace MB.Domain.Article
+namespace MB.Domain.ArticleAggg
 {
     public class Article
     {
-        public long Id { get;  private set; }
-
+        public long Id { get; private set; }
         public string Title { get; private set; }
-
-        public string  ShortDiscribtion { get; private set; }
-
         public string Image { get; private set; }
-
+        public string ShortDiscription { get; private set; }
         public string Content { get; private set; }
 
         public bool IsDeleted { get; private set; }
-
-        public DateTime CreationDate { get; private set; }
-        public long ArticleCategoryId { get; private set; }
+        public DateTime CreationDate { get;private set; }
 
         public ArticleCategory ArticleCategory { get; private set; }
+        public long ArticleCategoryId { get; private set; }
 
-        protected Article()
+        public Article()
         {
                 
         }
 
-        public Article(string title, string shortDiscribtion, string image, string content,long articlecategoryid)
+        public Article(long id, string title, string image, string shortDiscription, string content, long articleCategoryId)
         {
+            Id = id;
             Title = title;
-            ShortDiscribtion = shortDiscribtion;
             Image = image;
+            ShortDiscription = shortDiscription;
             Content = content;
+            ArticleCategoryId = articleCategoryId;
             IsDeleted = false;
             CreationDate = DateTime.Now;
-            ArticleCategoryId = articlecategoryid;
-
+          
         }
     }
 }

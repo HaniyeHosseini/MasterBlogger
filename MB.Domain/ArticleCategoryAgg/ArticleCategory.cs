@@ -1,4 +1,5 @@
-﻿using MB.Domain.ArticleCategoryAgg.Exeptions;
+﻿using MB.Domain.ArticleAggg;
+using MB.Domain.ArticleCategoryAgg.Exeptions;
 using MB.Domain.ArticleCategoryAgg.Services;
 using System;
 using System.Collections.Generic;
@@ -17,6 +18,8 @@ namespace MB.Domain.ArticleCategoryAgg
         public DateTime CreationDate { get; private set; }
 
         public bool IsDeleted { get; private set; }
+
+        public ICollection <Article> Articles { get; set; }
         public ArticleCategory()
         {
                 
@@ -30,6 +33,7 @@ namespace MB.Domain.ArticleCategoryAgg
             Title = title;
             CreationDate = DateTime.Now;
             IsDeleted = false;
+            Articles = new List<Article>();
         }
 
         public void GurdAgainstEmptyTitle(string title)

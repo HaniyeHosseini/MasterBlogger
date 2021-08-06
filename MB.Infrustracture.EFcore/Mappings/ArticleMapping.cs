@@ -1,4 +1,4 @@
-﻿using MB.Domain.Article;
+﻿using MB.Domain.ArticleAggg;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using System;
@@ -14,12 +14,14 @@ namespace MB.Infrustracture.EFcore.Mappings
             builder.ToTable("Articles");
             builder.HasKey(x => x.Id);
             builder.Property(z => z.Title);
-            builder.Property(z => z.ShortDiscribtion);
+            builder.Property(z => z.ShortDiscription);
             builder.Property(z => z.Image);
             builder.Property(z => z.Content);
             builder.Property(z => z.CreationDate);
             builder.Property(z => z.IsDeleted);
-            builder.HasOne(x=>x.ArticleCategory).
+            builder.HasOne(x => x.ArticleCategory)
+                .WithMany(x => x.Articles)
+                .HasForeignKey(x => x.ArticleCategoryId);
 
 
         }

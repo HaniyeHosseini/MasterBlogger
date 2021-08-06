@@ -1,4 +1,4 @@
-﻿using MB.Domain.Article;
+﻿using MB.Domain.ArticleAggg;
 using MB.Domain.ArticleCategoryAgg;
 using MB.Infrustracture.EFcore.Mappings;
 using Microsoft.EntityFrameworkCore;
@@ -14,7 +14,7 @@ namespace MB.Infrustracture.EFcore
         public DbSet<Article> Articles { get; set; }
         public MasterBlogerContext(DbContextOptions<MasterBlogerContext> options) : base(options)
         {
-                
+                 
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

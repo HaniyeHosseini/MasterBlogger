@@ -10,8 +10,11 @@ namespace MB.Application
 {
     public class ArticleCategoryApplication : IArticleCategpryApplication
     {
+
         private readonly IArticleCategoryRepository articleCategoryRepository;
         private readonly IArticleCategoryValidation articleCategoryValidation;
+
+
         public ArticleCategoryApplication(IArticleCategoryRepository articleCategoryRepository,IArticleCategoryValidation articleCategoryValidation)
         {
             this.articleCategoryValidation = articleCategoryValidation;

@@ -10,17 +10,18 @@ namespace MB.Presentation.MVCCore.Areas.Adminstorator.Pages.ArticleManagment
 {
     public class ListModel : PageModel
     {
-        private readonly IArticleApplication _articleApplication;
+        private readonly IArticleApplication _iarticleApplication;
         public List<ArticleViewModel> Articles { get; set; }
         public ListModel(IArticleApplication articleApplication)
         {
-            _articleApplication = articleApplication;
+            _iarticleApplication = articleApplication;
         }
 
         public void OnGet()
         {
            
-            Articles = _articleApplication.GetList();
+            Articles = _iarticleApplication.GetList();
+
         }
     }
 }

@@ -22,5 +22,6 @@ namespace MB.Presentation.MVCCore
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+   
     }
 }

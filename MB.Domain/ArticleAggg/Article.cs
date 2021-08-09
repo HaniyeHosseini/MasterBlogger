@@ -24,9 +24,9 @@ namespace MB.Domain.ArticleAggg
                 
         }
 
-        public Article(long id, string title, string image, string shortDiscription, string content, long articleCategoryId)
+        public Article( string title, string image, string shortDiscription, string content, long articleCategoryId)
         {
-            Id = id;
+            
             Title = title;
             Image = image;
             ShortDiscription = shortDiscription;
@@ -35,6 +35,16 @@ namespace MB.Domain.ArticleAggg
             IsDeleted = false;
             CreationDate = DateTime.Now;
           
+        }
+        public void Edit(string title, string image, string shortDiscription, string content, long articleCategoryId)
+        {
+
+            Title = title;
+            Image = image;
+            ShortDiscription = shortDiscription;
+            Content = content;
+            ArticleCategoryId = articleCategoryId;
+            
         }
     }
 }

@@ -6,7 +6,15 @@ using System.Text;
 namespace MB.Domain.ArticleAggg
 {
    public interface IArticleRepository
-    {
-        List<ArticleViewModel> GetList();
+    {  
+
+
+       List<ArticleViewModel> GetList();
+
+        void Create(Article entiti);
+
+        Article GetBy(long id);
+
+        void Save();
     }
 }

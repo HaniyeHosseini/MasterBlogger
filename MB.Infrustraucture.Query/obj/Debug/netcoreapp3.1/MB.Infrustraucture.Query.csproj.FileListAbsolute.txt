@@ -1,0 +1,16 @@
+C:\Users\R.M\source\repos\MasterBloger\MB.Infrustraucture.Query\bin\Debug\netcoreapp3.1\MB.Infrustraucture.Query.deps.json
+C:\Users\R.M\source\repos\MasterBloger\MB.Infrustraucture.Query\bin\Debug\netcoreapp3.1\MB.Infrustraucture.Query.dll
+C:\Users\R.M\source\repos\MasterBloger\MB.Infrustraucture.Query\bin\Debug\netcoreapp3.1\MB.Infrustraucture.Query.pdb
+C:\Users\R.M\source\repos\MasterBloger\MB.Infrustraucture.Query\bin\Debug\netcoreapp3.1\MB.Application.Contracts.dll
+C:\Users\R.M\source\repos\MasterBloger\MB.Infrustraucture.Query\bin\Debug\netcoreapp3.1\MB.Domain.dll
+C:\Users\R.M\source\repos\MasterBloger\MB.Infrustraucture.Query\bin\Debug\netcoreapp3.1\MB.Infrustracture.EFcore.dll
+C:\Users\R.M\source\repos\MasterBloger\MB.Infrustraucture.Query\bin\Debug\netcoreapp3.1\MB.Infrustracture.EFcore.pdb
+C:\Users\R.M\source\repos\MasterBloger\MB.Infrustraucture.Query\bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
+C:\Users\R.M\source\repos\MasterBloger\MB.Infrustraucture.Query\bin\Debug\netcoreapp3.1\MB.Domain.pdb
+C:\Users\R.M\source\repos\MasterBloger\MB.Infrustraucture.Query\obj\Debug\netcoreapp3.1\MB.Infrustraucture.Query.csproj.AssemblyReference.cache
+C:\Users\R.M\source\repos\MasterBloger\MB.Infrustraucture.Query\obj\Debug\netcoreapp3.1\MB.Infrustraucture.Query.AssemblyInfoInputs.cache
+C:\Users\R.M\source\repos\MasterBloger\MB.Infrustraucture.Query\obj\Debug\netcoreapp3.1\MB.Infrustraucture.Query.AssemblyInfo.cs
+C:\Users\R.M\source\repos\MasterBloger\MB.Infrustraucture.Query\obj\Debug\netcoreapp3.1\MB.Infrustraucture.Query.csproj.CoreCompileInputs.cache
+C:\Users\R.M\source\repos\MasterBloger\MB.Infrustraucture.Query\obj\Debug\netcoreapp3.1\MB.Infrustraucture.Query.csproj.CopyComplete
+C:\Users\R.M\source\repos\MasterBloger\MB.Infrustraucture.Query\obj\Debug\netcoreapp3.1\MB.Infrustraucture.Query.dll
+C:\Users\R.M\source\repos\MasterBloger\MB.Infrustraucture.Query\obj\Debug\netcoreapp3.1\MB.Infrustraucture.Query.pdb

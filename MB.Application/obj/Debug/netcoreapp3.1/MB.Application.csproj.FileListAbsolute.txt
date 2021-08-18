@@ -5,10 +5,10 @@ C:\Users\R.M\source\repos\MasterBloger\MB.Application\bin\Debug\netcoreapp3.1\MB
 C:\Users\R.M\source\repos\MasterBloger\MB.Application\bin\Debug\netcoreapp3.1\MB.Domain.dll
 C:\Users\R.M\source\repos\MasterBloger\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
 C:\Users\R.M\source\repos\MasterBloger\MB.Application\bin\Debug\netcoreapp3.1\MB.Domain.pdb
-C:\Users\R.M\source\repos\MasterBloger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.csprojAssemblyReference.cache
 C:\Users\R.M\source\repos\MasterBloger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.AssemblyInfoInputs.cache
 C:\Users\R.M\source\repos\MasterBloger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.AssemblyInfo.cs
 C:\Users\R.M\source\repos\MasterBloger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.csproj.CoreCompileInputs.cache
 C:\Users\R.M\source\repos\MasterBloger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.csproj.CopyComplete
 C:\Users\R.M\source\repos\MasterBloger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.dll
 C:\Users\R.M\source\repos\MasterBloger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.pdb
+C:\Users\R.M\source\repos\MasterBloger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.csproj.AssemblyReference.cache

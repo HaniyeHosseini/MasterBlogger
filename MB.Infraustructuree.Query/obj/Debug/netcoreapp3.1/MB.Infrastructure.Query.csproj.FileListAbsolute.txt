@@ -1,0 +1,17 @@
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.deps.json
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.pdb
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\01_Framework.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Application.Contracts.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Domain.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.pdb
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\01_Framework.pdb
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\bin\Debug\netcoreapp3.1\MB.Domain.pdb
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.csprojAssemblyReference.cache
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.AssemblyInfoInputs.cache
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.AssemblyInfo.cs
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.csproj.CopyComplete
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.dll
+C:\Hossein\Packages\Onion Architecture\examples\MasterBlogger\MB.Infrastructure.Query\obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.pdb

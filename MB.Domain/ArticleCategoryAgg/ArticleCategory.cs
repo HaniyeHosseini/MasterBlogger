@@ -15,7 +15,10 @@ namespace MB.Domain.ArticleCategoryAgg
         public DateTime CreationDate { get; private set; }
 
         public bool IsDeleted { get; private set; }
+        public ArticleCategory()
+        {
 
+        }
         public ArticleCategory(string title, IArticleCategoryValidation articleCategoryValidation)
         {
             GurdAgainstEmptyTitle(title);

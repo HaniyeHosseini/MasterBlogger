@@ -8,7 +8,10 @@ namespace MB.Domain.ArticleCategoryAgg.Services
     public class ArticleCategoryValidation : IArticleCategoryValidation
     {
         private readonly IArticleCategoryRepository articleCategoryRepository;
-
+        public ArticleCategoryValidation()
+        {
+                
+        }
         public ArticleCategoryValidation(IArticleCategoryRepository articleCategoryRepository)
         {
             this.articleCategoryRepository = articleCategoryRepository;

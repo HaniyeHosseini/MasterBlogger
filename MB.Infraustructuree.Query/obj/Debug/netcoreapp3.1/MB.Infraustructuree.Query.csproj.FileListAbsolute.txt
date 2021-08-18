@@ -1,0 +1,4 @@
+C:\Users\R.M\source\repos\MasterBloger\MB.Infraustructuree.Query\obj\Debug\netcoreapp3.1\MB.Infraustructuree.Query.csproj.AssemblyReference.cache
+C:\Users\R.M\source\repos\MasterBloger\MB.Infraustructuree.Query\obj\Debug\netcoreapp3.1\MB.Infraustructuree.Query.AssemblyInfoInputs.cache
+C:\Users\R.M\source\repos\MasterBloger\MB.Infraustructuree.Query\obj\Debug\netcoreapp3.1\MB.Infraustructuree.Query.AssemblyInfo.cs
+C:\Users\R.M\source\repos\MasterBloger\MB.Infraustructuree.Query\obj\Debug\netcoreapp3.1\MB.Infraustructuree.Query.csproj.CoreCompileInputs.cache

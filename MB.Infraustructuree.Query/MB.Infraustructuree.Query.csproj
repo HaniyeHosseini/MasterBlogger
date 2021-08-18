@@ -1,0 +1,50 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\netcoreapp3.1\MB.Infraustructuree.Query.AssemblyInfo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.deps.json" />
+    <Content Include="obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\MB.Infrastructure.Query.csproj.nuget.dgspec.json" />
+    <Content Include="obj\MB.Infraustructuree.Query.csproj.nuget.dgspec.json" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\netcoreapp3.1\01_Framework.dll" />
+    <None Include="bin\Debug\netcoreapp3.1\01_Framework.pdb" />
+    <None Include="bin\Debug\netcoreapp3.1\MB.Application.Contracts.dll" />
+    <None Include="bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb" />
+    <None Include="bin\Debug\netcoreapp3.1\MB.Domain.dll" />
+    <None Include="bin\Debug\netcoreapp3.1\MB.Domain.pdb" />
+    <None Include="bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.dll" />
+    <None Include="bin\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.pdb" />
+    <None Include="bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.dll" />
+    <None Include="bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.pdb" />
+    <None Include="obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.assets.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.csproj.CopyComplete" />
+    <None Include="obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.csprojAssemblyReference.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.dll" />
+    <None Include="obj\Debug\netcoreapp3.1\MB.Infrastructure.Query.pdb" />
+    <None Include="obj\Debug\netcoreapp3.1\MB.Infraustructuree.Query.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\MB.Infraustructuree.Query.assets.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\MB.Infraustructuree.Query.csproj.AssemblyReference.cache" />
+    <None Include="obj\MB.Infrastructure.Query.csproj.nuget.cache" />
+    <None Include="obj\MB.Infrastructure.Query.csproj.nuget.g.props" />
+    <None Include="obj\MB.Infrastructure.Query.csproj.nuget.g.targets" />
+    <None Include="obj\MB.Infraustructuree.Query.csproj.nuget.g.props" />
+    <None Include="obj\MB.Infraustructuree.Query.csproj.nuget.g.targets" />
+    <None Include="obj\project.nuget.cache" />
+  </ItemGroup>
+
+</Project>

@@ -17,7 +17,7 @@ namespace MB.Domain.ArticleCategoryAgg.Services
             this.articleCategoryRepository = articleCategoryRepository;
         }
 
-        public void ChechCategoryValidationAlredayExist(string title)
+        public void CheckCategoryValidationAlredayExist(string title)
         {
             if (articleCategoryRepository.Exist(title))
                 throw new DuplicatedRecordExeption("This Record Already Exists in Database");

@@ -17,6 +17,9 @@ namespace MB.Infrustracture.EFcore.Mappings
             builder.Property(z => z.CreationDate);
             builder.Property(z => z.IsDeleted);
 
+            builder.HasMany(x => x.Articles)
+                .WithOne(x => x.ArticleCategory)
+                .HasForeignKey(x => x.ArticleCategoryId);
 
 
         }

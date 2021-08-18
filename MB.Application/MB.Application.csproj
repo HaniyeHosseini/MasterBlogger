@@ -8,6 +8,7 @@
   <ItemGroup>
     <ProjectReference Include="..\MB.Application.Contracts\MB.Application.Contracts.csproj" />
     <ProjectReference Include="..\MB.Domain\MB.Domain.csproj" />
+    <ProjectReference Include="..\MB.Infrustracture.EFcore\MB.Infrustracture.EFcore.csproj" />
   </ItemGroup>
 
 </Project>

@@ -5,7 +5,7 @@ namespace MB.Domain.ArticleCategoryAgg.Services
 {
     public interface IArticleCategoryValidation
     {
-        void ChechCategoryValidationAlredayExist(string title);
+        void CheckCategoryValidationAlredayExist(string title);
 
     }
 }

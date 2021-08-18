@@ -89,3 +89,9 @@ C:\Users\R.M\source\repos\MasterBloger\MB.Presentation.MVCCore\obj\Debug\net5.0\
 C:\Users\R.M\source\repos\MasterBloger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Adminstorator\Pages\ArticleCategoryManagment\Create.cshtml.g.cs
 C:\Users\R.M\source\repos\MasterBloger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Adminstorator\Pages\ArticleCategoryManagment\Edit.cshtml.g.cs
 C:\Users\R.M\source\repos\MasterBloger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.csproj.AssemblyReference.cache
+<<<<<<< HEAD
+=======
+C:\Users\R.M\source\repos\MasterBloger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Adminstorator\Pages\ArticleManagment\List.cshtml.g.cs
+C:\Users\R.M\source\repos\MasterBloger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Adminstorator\Pages\ArticleManagment\Create.cshtml.g.cs
+C:\Users\R.M\source\repos\MasterBloger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Adminstorator\Pages\ArticleManagment\Edit.cshtml.g.cs
+>>>>>>> 30d24378789c5032be26dc1e818df7a32ab19aa6

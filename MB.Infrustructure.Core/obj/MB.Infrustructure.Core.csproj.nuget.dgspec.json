@@ -97,6 +97,9 @@
               },
               "C:\\Users\\R.M\\source\\repos\\MasterBloger\\MB.Domain\\MB.Domain.csproj": {
                 "projectPath": "C:\\Users\\R.M\\source\\repos\\MasterBloger\\MB.Domain\\MB.Domain.csproj"
+              },
+              "C:\\Users\\R.M\\source\\repos\\MasterBloger\\MB.Infrustracture.EFcore\\MB.Infrustracture.EFcore.csproj": {
+                "projectPath": "C:\\Users\\R.M\\source\\repos\\MasterBloger\\MB.Infrustracture.EFcore\\MB.Infrustracture.EFcore.csproj"
               }
             }
           }
@@ -157,7 +160,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\R.M\\source\\repos\\MasterBloger\\MB.Application.Contracts\\MB.Application.Contracts.csproj": {
+                "projectPath": "C:\\Users\\R.M\\source\\repos\\MasterBloger\\MB.Application.Contracts\\MB.Application.Contracts.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

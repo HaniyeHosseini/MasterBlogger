@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "KK3Tz85XGUs7ECkZlky/nqzb1Pg1QPBfu+5Fc2ZSxrtxnjn5JmorxLweQk7GtdtdYtg9O2E9qChn8FRJFs9MAw==",
+  "dgSpecHash": "rmTqHhCqF4y5ISalbyPgj1KCplipunSE4ofbZDJTQ6rpSe7z61uJnBy5YB61RCrj6xa7d7SDZItmf3IpFpFKeg==",
   "success": true,
   "projectFilePath": "C:\\Users\\R.M\\source\\repos\\MasterBloger\\MB.Domain\\MB.Domain.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\R.M\\source\\repos\\MasterBloger\\MB.Domain\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

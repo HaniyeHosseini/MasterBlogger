@@ -12,3 +12,8 @@ C:\Users\R.M\source\repos\MasterBloger\MB.Application\obj\Debug\netcoreapp3.1\MB
 C:\Users\R.M\source\repos\MasterBloger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.dll
 C:\Users\R.M\source\repos\MasterBloger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.pdb
 C:\Users\R.M\source\repos\MasterBloger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.csproj.AssemblyReference.cache
+<<<<<<< HEAD
+=======
+C:\Users\R.M\source\repos\MasterBloger\MB.Application\bin\Debug\netcoreapp3.1\MB.Infrustracture.EFcore.dll
+C:\Users\R.M\source\repos\MasterBloger\MB.Application\bin\Debug\netcoreapp3.1\MB.Infrustracture.EFcore.pdb
+>>>>>>> 30d24378789c5032be26dc1e818df7a32ab19aa6

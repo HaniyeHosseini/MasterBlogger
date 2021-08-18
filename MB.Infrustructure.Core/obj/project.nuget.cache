@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2SoyV3TnTIlQq7BRR90kGXDTP+9SO7BAPq3qSs+RIOhj4aMCR3r2NiiFUsQjy3qhoN59WWNhmdG26n5eWdf0Qw==",
+  "dgSpecHash": "E0Ut2+Il0EaDINFmunAIzH699BZdauuE09zFMnoZD2qNJwWFVRyUkD17GfBX0JNCR4cQu28WPF3Ie+bZOMdAtA==",
   "success": true,
   "projectFilePath": "C:\\Users\\R.M\\source\\repos\\MasterBloger\\MB.Infrustructure.Core\\MB.Infrustructure.Core.csproj",
   "expectedPackageFiles": [
@@ -99,5 +99,12 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\R.M\\source\\repos\\MasterBloger\\MB.Infrustructure.Core\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
